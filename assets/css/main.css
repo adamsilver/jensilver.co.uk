@@ -117,6 +117,8 @@
 **********************************************************/
 
 body,
+h1,
+h2,
 ul, li,
 p {
 	margin: 0;
@@ -147,10 +149,11 @@ h1 span {
 h2 {
     font-family: 'droid sans';
 	font-size: 1.6em;
-	margin-top: 1em;
 	margin-bottom: 0;
     color: #2c3e50;
     text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 p {
@@ -159,6 +162,11 @@ p {
 	margin-top: 0.5em;
 	color: #2c3e50;
 	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 a:link {
@@ -226,5 +234,11 @@ a img {
 
 .main {
 	border-bottom: 1px solid #ccc;
+	padding-bottom: 30px;
+}
+
+.questions {
+	background-color: #fbfbfb;
+	padding-top: 40px;
 	padding-bottom: 30px;
 }

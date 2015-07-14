@@ -17,26 +17,29 @@ layout: default
 	<p><a class="sendEmail" href="mailto:jencsilver+tutoring@gmail.com">Send me an email</a></p>
 </div>
 
-## Where am I based?
+<div class="questions">
 
-Mill Hill, London NW7, UK
+	<h2>What is my experience?</h2>
 
-## Do I teach at my home?
+	<p>I have worked as a class teacher in a primary school for seven years. During this time I mainly worked in the Infants so have a very good understanding of how children learn to read and write.</p>
 
-Yes
+	<p>This experience with younger children has also meant that I am able to plan engaging activities in which children can learn while having fun. I  am very experienced in teaching phonics, writing and numeracy.</p>
 
-## Will I travel to you?
+	<p>From my years of teaching I have become very confident in assessing children and understanding the next steps in their learning and how to push them on.</p>
 
-Yes (within reason)
+	<h2>Where am I based?</h2>
 
-## How much do I charge?
+	<p>Mill Hill, London NW7, UK</p>
 
-One hour is &#163;30
+	<h2>Do I teach at my home?</h2>
 
-## What do I teach?
+	<p>Yes</p>
 
-Coming soon.
+	<h2>Will I travel to you?</h2>
 
-## What is my experience?
+	<p>Yes (within reason)</p>
 
-Coming soon.
+	<h2>How much do I charge?</h2>
+
+	<p>One hour is &#163;30</p>
+</div>
