@@ -14,7 +14,7 @@ layout: default
 
 	<h1>Jennifer Silver <span>Private Tutor based in Mill Hill, London, NW7</span></h1>
 
-	<p>Hello, my name is Jennifer and I am Private Tutor specialising in literacy and numeracy.</p>
+	<p>Hello, my name is Jennifer and I am a Private Tutor specialising in literacy and numeracy.</p>
 
 	<p><a class="sendEmail" href="mailto:jencsilver+tutoring@gmail.com">Send me an email</a></p>
 </div>
