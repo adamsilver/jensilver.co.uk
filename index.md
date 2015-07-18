@@ -14,7 +14,7 @@ layout: default
 
 	<h1>Jennifer Silver <span>Private Tutor based in Mill Hill, London, NW7</span></h1>
 
-	<p>Hello, my name is Jennifer and I am a Private Tutor specialising in literacy and numeracy.</p>
+	<p>Hello, my name is Jennifer and I am a Private Tutor, based in London NW7.</p>
 
 	<p><a class="sendEmail" href="mailto:jencsilver+tutoring@gmail.com">Send me an email</a></p>
 </div>
@@ -32,7 +32,7 @@ layout: default
 
 	<h2>What is my experience?</h2>
 
-	<p>I have worked as a class teacher in a primary school for seven years. During this time I mainly worked in the Infants so have a very good understanding of how children learn to read and write.</p>
+	<p>I have worked as a class teacher in a primary school for seven years. During this time I mainly worked in the Infants so I have a very good understanding of how children learn to read and write.</p>
 
 	<p>This experience with younger children has also meant that I am able to plan engaging activities in which children can learn while having fun. I  am very experienced in teaching phonics, writing and numeracy.</p>
 
