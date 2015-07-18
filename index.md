@@ -17,6 +17,15 @@ layout: default
 	<p><a class="sendEmail" href="mailto:jencsilver+tutoring@gmail.com">Send me an email</a></p>
 </div>
 
+<div class="recommendation">
+	<blockquote>
+		<p>
+			&ldquo;It's Jennifer's attitude and infectious spirit that I feel sets her apart. She makes learning so much fun, that I don't think my son actually knows he has a tutor.&rdquo;
+			<br>&mdash;<cite>Lucy Brookner</cite>
+		</p>
+	</blockquote>
+</div>
+
 <div class="questions">
 
 	<h2>What is my experience?</h2>
@@ -38,8 +47,4 @@ layout: default
 	<h2>Will I travel to you?</h2>
 
 	<p>Yes (within reason)</p>
-
-	<h2>How much do I charge?</h2>
-
-	<p>One hour is &#163;30</p>
 </div>
