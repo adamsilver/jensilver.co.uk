@@ -10,6 +10,8 @@ layout: default
 
 <div class="main">
 
+	<img class="avatar" src="/assets/img/jen.jpg" alt="Jennifer" width="100" height="100">
+
 	<h1>Jennifer Silver <span>Private Tutor based in Mill Hill, London, NW7</span></h1>
 
 	<p>Hello, my name is Jennifer and I am Private Tutor specialising in literacy and numeracy.</p>
